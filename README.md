@@ -1,6 +1,6 @@
-## About E-Rapor
+## E-Rapor
 
-<p align="justify">Web application to input final score or student raport. It consists of data management from students, teachers, subjects, and students score.It was developed using bootstrap framework, mySql, dan laravel. This application has several features: </p>
+<p align="justify">Aplikasi web untuk menginput nilai akhir atau raport siswa. Terdiri dari pengelolaan data siswa, guru, mata pelajaran, dan nilai siswa yang dikembangkan menggunakan framework bootstrap, mySql, dan laravel. Aplikasi ini memiliki beberapa fitur: </p>
 
 - User Authentication.
 - User Authorization.
@@ -9,14 +9,5 @@
 - Subject Management.
 - Validation Form.
 
-<!-- ## Preview
+aplikasini ini dibuat untuk syarat kelulusan kuliah di Politeknik Negeri Malang
 
-<div align="center">
-    <img src="public/images/1-login.png" width="400px" alt="login"</img>
-    <img src="public/images/2-dashboard.png" width="400px" alt="dashboard"</img> 
-    <img src="public/images/3 - teacher management.png" width="400px" alt="teacher management"</img> 
-    <img src="public/images/4 - student management.png" width="400px" alt="student management"</img> 
-    <img src="public/images/5 - subject management.png" width="400px" alt="subject management"</img> 
-    <img src="public/images/6 - input student score.png" width="400px" alt="input student score"</img> 
-    <img src="public/images/7 - eksport pdf.png" width="400px" alt="eksport pdf"</img> 
-</div> -->
